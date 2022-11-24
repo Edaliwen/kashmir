@@ -1,12 +1,25 @@
 main {
-    background-color: rgb(238, 218, 182);
+    background-image: url(../accueil/images/bg.webp);
 }
 
-#ganesh {
-    position: absolute;
-    background-color: rgb(238, 218, 182);
-    top: 20rem;
-    left: -12rem;
-    width: 55%;
-    height: 85%;
+img {
+    width: 20rem;
+    height: 20rem;
+}
+
+#container {
+    margin-left: -6rem;
+}
+
+#cat {
+    margin-left: 2rem;
+}
+
+h3 {
+    text-align: center;
+    margin-left: -3rem;
+}
+
+#desserts {
+    margin-left: -4.5rem;
 }

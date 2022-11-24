@@ -1,0 +1,9 @@
+@font-face{
+    font-family: "Kalam";
+                src: url(assets/css/kalam/Kalam-Regular.ttf);
+                
+}
+footer{
+    font-family: "Kalam";
+                src: url(assets/css/kalam/Kalam-Regular.ttf);
+}

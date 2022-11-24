@@ -1,0 +1,12 @@
+main {
+    background-color: rgb(238, 218, 182);
+}
+
+#ganesh {
+    position: absolute;
+    background-color: rgb(238, 218, 182);
+    top: 20rem;
+    left: -12rem;
+    width: 55%;
+    height: 85%;
+}

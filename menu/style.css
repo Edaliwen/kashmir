@@ -1,0 +1,20 @@
+main {
+    background-image: url(../accueil/images/bg.webp);
+}
+
+img {
+    width: 10rem;
+    height: 10rem;
+}
+
+#cat {
+    margin-left: 2rem;
+}
+
+h3 {
+    text-align: center;
+}
+
+#desserts {
+    margin-left: -4.5rem;
+}
